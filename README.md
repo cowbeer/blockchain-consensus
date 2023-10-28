@@ -1,1 +1,1 @@
-# blockchain-consensus
+# Blockchain Consensus
